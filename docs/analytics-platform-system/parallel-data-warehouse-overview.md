@@ -37,7 +37,7 @@ To learn more about Analytics Platform System, see:
 ## <a name="sec1"></a>Appliance Software - Query Processing and User Data Storage  
   
 ### Control Node  
-MPP Engine  
+### MPP Engine  
 The MPP Engine is the brains of the Massively Parallel Processing (MPP) system. It does the following:  
   
 -   Creates parallel query plans and coordinates parallel query execution on the Compute nodes.  
@@ -96,7 +96,7 @@ The appliance fabric provides the operating system, services, and network infras
 Active Directory (AD) Domain Services (DS)  
 Analytics Platform System performs authentication among the Analytics Platform System nodes, and manages the authentication of SQL Server PDW Windows Authentication logins.  
   
-DNS service  
+### DNS service  
 Windows Domain Name Service (DNS) resolves domain names to IP addresses for the Analytics Platform System appliance.  
   
 ### Windows Deployment Service  
